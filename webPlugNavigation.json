@@ -611,13 +611,11 @@
       "click": true
     },
     {
-      "name": "百度搜索(Web)",
+      "name": "影视森林(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "keyDownPlay": false,
-      "keyUpPlay": false,
-      "userAgent": "PC",
-      "ads": "",
-      "webUrl": "https://www.baidu.com/",
+      "type": "webPlug",
+      "ads": "ad,https://nfxhd.com/pic/p.gif",
+      "webUrl": "http://www.549.tv/",
       "webOpen": true,
       "click": true
     },
