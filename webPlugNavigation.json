@@ -1,28 +1,28 @@
 {
   "data": [
     {
-      "name": "94神马(规则)",
+      "name": "真不卡(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "http://www.9rmb.com",
+      "webUrl": "https://www.zhenbuka3.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
-        "web_name": "94神马",
+        "search_url": "https://www.zhenbuka3.com/vodsearch/-------------/?wd={kw}",
+        "nav_url": "https://www.zhenbuka3.com/vodtype/navCate-navPage/",
+        "web_name": "真不卡",
         "navHtml": {
           "name": [
             "电影",
-            "电视剧",
-            "动漫",
-            "综艺"
+            "剧集",
+            "综艺",
+            "动漫"
           ],
           "cate": [
             "1",
             "2",
-            "7",
+            "3",
             "4"
           ],
           "page": "1"
@@ -37,27 +37,27 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.panel.panel-default.resource-list",
+            "mainCss": "div.stui-pannel_bd.col-pd.clearfix",
             "mainIndex": 0
           },
           "nav": {
             "descAttr": "",
-            "descCss": "button.hdtag",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasUrlPrefix": false,
-            "imgAttr": "src",
-            "imgCss": "img",
+            "imgAttr": "data-original",
+            "imgCss": "a",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "div.row",
-            "mainListIndex": 1,
+            "mainCss": "ul.stui-vodlist.clearfix",
+            "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
-            "searchListCss": "div.col-md-1-5 > div.movie-item",
+            "searchListCss": "li",
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
@@ -75,7 +75,7 @@
             "isNameAttr": true,
             "isUrlAttr": true,
             "mainCss": "div.row",
-            "mainListIndex": 1,
+            "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
@@ -458,33 +458,25 @@
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
       "ads": "",
-      "webUrl": "https://www.555dy6.com/",
+      "webUrl": "https://555dy.fun/",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
-        "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
+        "search_url": "https://www.555dy6.com/vodsearch/{kw}-------------.html",
+        "nav_url": "https://555dy.fun/vodtype/navCate-navPage.html",
         "web_name": "555电影",
         "navHtml": {
           "name": [
             "电影",
-            "每日推荐",
-            "电视剧",
-            "热剧推荐",
+            "连续剧",
             "动漫",
-            "热漫推荐",
-            "综艺",
-            "热门综艺"
+            "综艺纪录片"
           ],
           "cate": [
             "1",
-            "79",
             "2",
-            "88",
             "4",
-            "94",
-            "3",
-            "90"
+            "3"
           ],
           "page": "1"
         },
@@ -498,7 +490,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.playlist.clearfix",
+            "mainCss": "div.tab-pane.fade.in.clearfix",
             "mainIndex": 0
           },
           "nav": {
