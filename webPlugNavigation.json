@@ -239,6 +239,16 @@
       "click": true
     },
     {
+      "name": "哔哩哔哩(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+	  "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://www.bilibili.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "影视森林(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "type": "webPlug",
