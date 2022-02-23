@@ -8,81 +8,21 @@
     },
     {
       "id": 1,
+      "name": "线路2",
+      "ad": "no",
+      "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+    },
+    {
+      "id": 19,
       "name": "线路3",
       "ad": "no",
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "id": 19,
-      "name": "自定义2",
-      "ad": "no",
-      "url": "https://sb.5gseo.net/?url="
-    },
-    {
-      "id": 19,
-      "name": "官解接口",
-      "ad": "no",
-      "url": "https://m3u8.3jx.net/jx/?url="
-    },
-    {
-      "id": 19,
-      "name": "蓝光视频",
-      "ad": "no",
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
-    },
-    {
-      "id": 19,
-      "name": "黄河影视",
-      "ad": "no",
-      "url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="
-    },
-    {
-      "id": 19,
-      "name": "M3U8tv",
-      "ad": "no",
-      "url": "https://jx.m3u8.tv/jiexi/?url="
+      "url": "https://jx.parwix.com:4433/player/?url="
     },
     {
       "id": 19,
       "name": "公主影视",
       "ad": "no",
       "url": "https://jx.renrenmi.cc/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路4",
-      "ad": "no",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-	{
-      "id": 1,
-      "name": "久九影视",
-      "ad": "no",
-      "url": "https://json.hfyrw.com/mao.go?url="
-    },
-	{
-      "id": 1,
-      "name": "追剧吧2",
-      "ad": "no",
-      "url": "https://svip.spchat.top/api/?key=SAl7tLs3Zzu5alSNtz&url="
-    },
-	{
-      "id": 1,
-      "name": "看剧吧1",
-      "ad": "no",
-      "url": "https://supervip.rongxingvr.cn:8866/api/?key=nKn4eO8giUKSe8jxZU&url="
-    },
-	{
-      "id": 1,
-      "name": "Yoyo1",
-      "ad": "no",
-      "url": "https://json.legendwhb.cn/json.php/?url="
-    },
-    {
-      "id": 1,
-      "name": "绿箭影视2",
-      "ad": "no",
-      "url": "https://json.pangujiexi.com:12345/json.php?url="
     }
   ]
 }
