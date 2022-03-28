@@ -2,21 +2,39 @@
   "data": [
     {
       "id": 1,
-      "name": "线路1",
+      "name": "小七",
+      "ad": "no",
+      "url": "https://2.08bk.com/?url="
+    },
+    {
+      "id": 1,
+      "name": "okjx",
       "ad": "no",
       "url": "https://okjx.cc/?url="
     },
     {
-      "id": 1,
-      "name": "线路2",
+      "id": 19,
+      "name": "8090g",
       "ad": "no",
-      "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+      "url": "https://www.8090g.cn/jiexi/?url="
     },
     {
       "id": 19,
-      "name": "线路3",
+      "name": "admini",
+      "ad": "no",
+      "url": "https://www.administratorw.com/admin.php?url="
+    },
+     {
+      "id": 19,
+      "name": "parwix",
       "ad": "no",
       "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "id": 19,
+      "name": "m3u8",
+      "ad": "no",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "id": 19,
